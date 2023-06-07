@@ -25,7 +25,7 @@ Retrip :  Connect Your Trip GitHub Repositories of Bangkit Academy 2023 Capstone
 | I Gede Eka Samdyana Putra         | M151DSX3658 | Machine Learning    |
 | Dita Ary Crystian                 | M282DSX3284 | Machine Learning    |
 | Edo Priyo Utomo Putro Mujiono     | M038DSX2463 | Machine Learning    |
-| Rizkya Ayu Dwi Andini             | C151DSY2230 | Android Development |
+| Rizkya Ayu Dwi Andini             | C151DSY2230 | Cloud Computing     |
 | Muhammad Dhafin Alghani           | C298DKX3812 | Cloud Computing     |
 | Ahfaitar Abdil Hakim              | A151DSX2811 | Android Development |
 
