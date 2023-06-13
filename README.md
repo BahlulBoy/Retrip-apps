@@ -12,7 +12,13 @@ Retrip :  Connect Your Trip GitHub Repositories of Bangkit Academy 2023 Capstone
 
 # About The Project
 
-........
+Before traveling, both foreign and domestic tourists will look for interesting tourist spots around the area they visit. To overcome this, our team uses the recommendation method. We present Retrip as an application that is able to recommend several tourist attractions according to the location you want to go to and is accompanied by existing reviews from other users...
+
+<p align="center">
+	<img src="Logo/RETRIP_LOGO-04.png" width="25%"> &nbsp; &nbsp; &nbsp;
+	<img src="Logo/RETRIP_LOGO-04.png" width="25%"> &nbsp; &nbsp; &nbsp;
+	<img src="Logo/RETRIP_LOGO-04.png" width="25%">
+</p>
 
 # Team Members
 
@@ -42,13 +48,21 @@ In our project is divided into four branches.
 
 # Getting Started
 
-Before traveling, both foreign and domestic tourists will look for interesting tourist spots around the area they visit. To overcome this, our team uses the recommendation method. We present Retrip as an application that is able to recommend several tourist attractions according to the location you want to go to and is accompanied by existing reviews from other users...
+- **Prerequisites**
 
-<p align="center">
-	<img src="Logo/RETRIP_LOGO-04.png" width="25%"> &nbsp; &nbsp; &nbsp;
-	<img src="Logo/RETRIP_LOGO-04.png" width="25%"> &nbsp; &nbsp; &nbsp;
-	<img src="Logo/RETRIP_LOGO-04.png" width="25%">
-</p>
+  1.  Android
+  2.  Internet connection
+  3.  GPS/Location
+
+- **Installation**
+
+  1.  Download the APK
+  2.  Install the APK
+
+- **Register**
+
+  1.  Open Getloc application
+  2.  Register your email address
 
 # Usage
 
@@ -58,7 +72,7 @@ Before traveling, both foreign and domestic tourists will look for interesting t
   2.  Click on search button
   3.  Input your current location
   4.  GetLoc will recommend you the nearest tourist spots
-  5.  
+ 
 - How to get review from other user
 
   1.  You can choose from destination you choose
