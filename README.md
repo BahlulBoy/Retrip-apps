@@ -35,7 +35,7 @@ Retrip :  Connect Your Trip GitHub Repositories of Bangkit Academy 2023 Capstone
 
 In our project is divided into four branches.
 
-1. [main]
+1. [main](https://github.com/EdoPriyo13/Retrip-apps)
 2. [android-development](https://github.com/BahlulBoy/MD-Path_RetripApps.git)
 3. [cloud-computing]
 4. [machine-learning](https://github.com/EdoPriyo13/ML-path-Retrip-apps/tree/main)
