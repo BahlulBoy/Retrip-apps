@@ -61,7 +61,7 @@ In our project is divided into four branches.
 
 - **Register**
 
-  1.  Open Getloc application
+  1.  Open Retrip application
   2.  Register your email address
 
 # Usage
