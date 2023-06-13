@@ -42,14 +42,31 @@ In our project is divided into four branches.
 
 # Getting Started
 
-.....
+Before traveling, both foreign and domestic tourists will look for interesting tourist spots around the area they visit. To overcome this, our team uses the recommendation method. We present Retrip as an application that is able to recommend several tourist attractions according to the location you want to go to and is accompanied by existing reviews from other users...
+
+<p align="center">
+	<img src="Logo/RETRIP_LOGO-04.png" width="25%"> &nbsp; &nbsp; &nbsp;
+	<img src="Logo/RETRIP_LOGO-04.png" width="25%"> &nbsp; &nbsp; &nbsp;
+	<img src="Logo/RETRIP_LOGO-04.png" width="25%">
+</p>
+
 # Usage
 
-....
+- How to find the nearest tourist spots
+
+  1.  Login to your accounts
+  2.  Click on search button
+  3.  Input your current location
+  4.  GetLoc will recommend you the nearest tourist spots
+  5.  
+- How to get review from other user
+
+  1.  You can choose from destination you choose
+  2.  You click on the review
 
 # Product
 
-....
+1. [Retrip]()
 
 # Technology Used
 
@@ -75,7 +92,15 @@ In our project is divided into four branches.
 
 # Contributing
 
-....
+We are very open to any input, therefore we want to make contributing to this project as easy and transparent as possible, whether it's:
+
+- Reporting a bug
+- Discussing the current state of the code
+- Submitting a fix
+- Proposing new features
+- Becoming a maintainer
+
+If you think something important is missing or should be different based on your experience, we'd love to have you contribute to this project. If you have suggestions for improving these apps, please [contact](https://github.com/EdoPriyo13) the existing ones.
 
 # License
 
