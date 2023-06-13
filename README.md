@@ -43,7 +43,7 @@ In our project is divided into four branches.
 
 1. [main](https://github.com/EdoPriyo13/Retrip-apps)
 2. [android-development](https://github.com/BahlulBoy/MD-Path_RetripApps.git)
-3. [cloud-computing]
+3. [cloud-computing](https://github.com/dhafin109/recommendation_rating_model)
 4. [machine-learning](https://github.com/EdoPriyo13/ML-path-Retrip-apps/tree/main)
 
 # Getting Started
