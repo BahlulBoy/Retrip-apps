@@ -16,8 +16,8 @@ Before traveling, both foreign and domestic tourists will look for interesting t
 
 <p align="center">
 	<img src="Logo/Logo.jpeg" width="25%"> &nbsp; &nbsp; &nbsp;
-	<img src="Logo/Home page.jpeg" width="25%"> &nbsp; &nbsp; &nbsp;
-	<img src="Logo/Destination page.png" width="25%">
+	<img src="Logo/Home page.png" width="25%"> &nbsp; &nbsp; &nbsp;
+	<img src="Logo/Destination page.jpeg" width="25%">
 </p>
 
 # Team Members
