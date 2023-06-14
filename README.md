@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <img src="Logo/RETRIP_LOGO-04.png">
+    <img src="Logo/RETRIP_LOGO-04.png" width=50% height=50%>
   </a>
 </p>
 <br>
